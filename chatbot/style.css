@@ -12,6 +12,10 @@ body {
   background: #068dee;
 }
 
+.back {
+  background-image: "sharan-chatbot/chatbot/wireframe.jpg";
+}
+
 .chatbot-toggler {
   position: fixed;
   bottom: 30px;
